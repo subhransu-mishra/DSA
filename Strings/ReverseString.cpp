@@ -7,4 +7,4 @@ int main(){
     reverse(str.begin(),str.end());
     cout<<str<<endl;
     return 0;
-}
+} 
